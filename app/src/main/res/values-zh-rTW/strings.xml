@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageIndexView</string>
+    <string name="temperature">溫度</string>
+    <string name="check_in">刷卡</string>
+    <!--  Title bar  -->
+    <string name="title_bar_search">搜尋</string>
+    <string name="title_bar_history">通行紀錄</string>
+    <!--  Message view  -->
+    <string name="title_time">時間</string>
+    <string name="title_method">方式</string>
+    <string name="title_result">結果</string>
+    <string name="title_reason">原因</string>
+</resources>
